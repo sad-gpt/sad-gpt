@@ -1,6 +1,6 @@
 -  Hi, I’m harshmeet  
 -  I’m interested in web development and cyber security
--  I’m currently learning css adnd javascript
+-  I’m currently learning css and javascript
 -  my email:- batthharshmeet@gmail.com
 
 <!---
