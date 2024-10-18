@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Harshmeet Bath</h1>
-- 🌱 I’m currently learning **JS and MERN**
 
-- 📫 How to reach me **harshmeetbath15@gmail.com**
+
+**harshmeetbath15@gmail.com**
 
 
 <img src="https://camo.githubusercontent.com/9ae27d9f8bc2367dcee59b2bbbbc19dc09da80051afdb7ef6fc4e397534eb03f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966" width="400" align="right"  >
